@@ -4,7 +4,10 @@
     background-image: linear-gradient(lightgreen,greenyellow, yellow);
     position: absolute;
     z-index: 0;
+    border-style: solid;
+    border-width: 10px;
     border-radius: 25px;
+    
 }
 .answer{
     
@@ -22,4 +25,123 @@
     font-family: "Press Start 2P";
     font-size: 50px;
     
+}
+
+.buttons{
+
+    position: relative;
+    border-style: solid;
+    width: 565px;
+    height: 500px;
+    top: 75px;
+    right: -40px;
+    font-family: "Press Start 2P";
+    
+}
+
+button{
+    width: 115px;
+    background-color: white;
+    font-family: "Arial Black";
+    font-size: 50px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: whitesmoke;
+    position: relative;
+    padding: 15px;
+
+}
+
+#one{
+
+    top: 10px;
+    right: -10px;
+
+}
+
+#two{
+    top: 10px;
+    right: -20px;
+}
+
+#three{
+
+    top: 10px;
+    right: -30px;
+}
+
+#divition{
+    top: 10px;
+    right: -40px;
+}
+
+#four{
+    top: 20px;
+    right: -10px;
+}
+
+#five{
+
+    top: 20px;
+    right: -20px;
+}
+
+#six{
+
+    top: 20px;
+    right: -30px;
+}
+
+#multiplication{
+    
+    top: 20px;
+    right: -40px;
+}
+
+#seven{
+    
+    top: 30px;
+    right: -10px;
+}
+
+#eight{
+    
+    top: 30px;
+    right: -20px;
+}
+
+#nine{
+    
+    top: 30px;
+    right: -30px;
+}
+
+#subtraction{
+
+    top: 30px;
+    right: -40px;
+}
+
+#zero{
+
+    top: 40px;
+    right: -10px;
+}
+
+#dot{
+    
+    top: 40px;
+    right: -20px;
+}
+
+#addition{
+
+    top: 40px;
+    right: -30px;
+}
+
+#equal{
+    
+    top: 40px;
+    right: -40px;
 }
