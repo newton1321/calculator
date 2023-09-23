@@ -222,5 +222,8 @@ document.getElementById("delete").onclick = function(){
 
     document.getElementById("show").textContent = "";
     x = 0;
+    no1 = "";
+    no2 = "";
+    operation = null;
 
 }
