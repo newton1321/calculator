@@ -225,5 +225,6 @@ document.getElementById("delete").onclick = function(){
     no1 = "";
     no2 = "";
     operation = null;
+    changeno = false;
 
 }
