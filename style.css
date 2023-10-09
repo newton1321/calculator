@@ -1,7 +1,7 @@
 .square{
     height: 750px;
     width: 650px;
-    background-image: linear-gradient(skyblue, #0271b6);
+    background-image: black;
     position: absolute;
     z-index: 0;
     border-style: solid;
